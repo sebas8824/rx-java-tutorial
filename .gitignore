@@ -36,6 +36,7 @@
 # .idea/modules.xml
 # .idea/*.iml
 # .idea/modules
+# *.iml
 
 # CMake
 cmake-build-*/
@@ -105,5 +106,5 @@ gradle-app.setting
 
 ### Idea files
 .idea/
-
+.iml
 # End of https://www.gitignore.io/api/gradle,intellij
